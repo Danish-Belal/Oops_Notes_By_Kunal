@@ -1,3 +1,3 @@
-# Community Template Repo
+# Java Oops Notes
 
-Template repo with docs and GitHub Actions etc, to create other projects.
+This repo have Java Oops Notes .
